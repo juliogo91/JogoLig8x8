@@ -2,7 +2,7 @@ package exerciciosalgoritmo;
 
 import java.util.Scanner;
 
-public class jogoLIG48X8ULTIMAVERSAO {
+public class jogoLiGQuaTroOitoPorOito {
 
 	public static void main(String[] args) {
 		Scanner buffer = new Scanner(System.in);
